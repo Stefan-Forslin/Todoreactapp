@@ -28,3 +28,6 @@
 	border-radius: 0.3em;
 	border: none;
 }
+.todo-list button:hover{
+	cursor: pointer;
+}
