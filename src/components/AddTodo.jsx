@@ -1,7 +1,7 @@
 const AddTodo = () =>(
 <div>
-  <input type="text" placeholder="Ska göras"/>
-  <button>lägg till</button>
+  <input type="text" placeholder="Some little faggot in my head"/>
+  <button>Shitter</button>
 </div>
 )
 export default AddTodo
